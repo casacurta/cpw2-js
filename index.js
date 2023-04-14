@@ -1,7 +1,7 @@
 
 /**
  * Recebe um array com os nomes de pessoas e retorna um array invertido
- *
+ *vcvcvcv
  * @param {*} people : Um array contendo um conjunto de nomes
  * @returns Um array com os nomes invertidos
  */
