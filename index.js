@@ -4,8 +4,6 @@ function main(){
     let value = isApproved(n);
 }
 
-
-
 /**
  * Recebe um array com os nomes de pessoas e retorna um array invertido
  *
